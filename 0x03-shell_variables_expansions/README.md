@@ -1,1 +1,1 @@
-0x03. Shell,init files
+0x03. Shell,init files,variables and expansions
